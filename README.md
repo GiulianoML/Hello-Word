@@ -1,2 +1,3 @@
-# Hello Word
-Primeiro repositorio
+# Hello, Word!
+My first repository
+
